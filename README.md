@@ -61,18 +61,18 @@ Here are some examples of how to use the API endpoints:
 - Create a new user:
     POST/api/users
 
--Update a user: 
+- Update a user: 
     PUT/api/users/:id
 
--Delete a user:
+- Delete a user:
     DELETE/api/users/:id
 
 ### Thought Managment
 
--Create a new thought: 
+- Create a new thought: 
     -POST/api/thoughts
 
--Update a thought:
+- Update a thought:
     -DELETE/api/thoughts/:id
 
 
